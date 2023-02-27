@@ -15,7 +15,7 @@ git clone https://github.com/ramos21rodrigo/42porto.get-next-line.git && cd 42po
 ```
 cc get_next_line.c get_next_line_utils.c -o get_lext_line
 ```
-######  Don't forgot to uncomment the main in get_next_line.c and change the file to your file name.
+######  Don't forget to uncomment the main in get_next_line.c and change the file to your file name.
 
 3. Now you can call it and the file line by line.
 
